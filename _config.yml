@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://sanjeetbagga.github.io
 title: Sanjeet Bagga
-tagline: A Students Adventure
-description: What's up guys, this blog will be my way of communicating my ideas and advocating my thoughts. 
-paginate: 5
+tagline: a blog
+description: Sanjeet Bagga
+paginate: 5 
